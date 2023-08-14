@@ -1,7 +1,6 @@
 package com.example.ej6modulo5int;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
